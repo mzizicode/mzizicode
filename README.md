@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm peter</h1>
-<h3 align="center">I am a kenyan currently am a computer engineer teacher in Thailand.Passionate about solving problems with technology and creating different solutions.Stay free to know a little more about my life,follow me on my network where i share alittle bit about myslef.I love to make new friends and learn new things</h3>
+<h3 align="center">I am a kenyan currently am a computer engineer in Thailand.Passionate about solving problems with technology and creating different solutions.Stay free to know a little more about my life,follow me on my network where i share alittle bit about myslef.I love to make new friends and learn new things</h3>
 
 - 🔭 I’m currently working on **School system**
 
